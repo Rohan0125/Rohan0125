@@ -3,11 +3,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-- 👋 Hi, I’m @Rohan0125 </br>
-- 👀 I’m interested in java, javascript. </br>
-- 🌱 I’m currently learning web development</br>
-- 💞️ I’m looking to collaborate on ...</br>
-- 📫 How to reach me</br>
+<p align="left">- 👋 Hi, I’m @Rohan0125 </p>
+<p align="left">- 👀 I’m interested in java, javascript. </p>
+<p align="left">- 🌱 I’m currently learning web development</p>
+<p align="left">- 💞️ I’m looking to collaborate on ... </p>
+<p align="left">- 📫 How to reach me</p>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
