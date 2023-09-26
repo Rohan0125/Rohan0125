@@ -3,7 +3,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<p align="left">- 👋 Hi, I’m @Rohan0125 </p>
 <p align="left">- 👀 I’m interested in java, javascript. </p>
 <p align="left">- 🌱 I’m currently working on web development</p>
 <p align="left">- 💞️ I’m looking to collaborate </p>
